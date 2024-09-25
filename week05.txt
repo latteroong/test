@@ -3,3 +3,5 @@
 - git remote add origin https://github.com/latteroong/test.git
 - git push -u origin main	// 한 번 연결 후 -u부터 생략가능
 - git config --list
+- git clone https://github.com/latteroong/test		// 원격에 있는거 다 가져옴
+- git clone 원격리포지토리주소 .	// 원격에 있는거 다 가져옴, .을 붙이면 새 폴더를 생성하지 않고 현재폴더에 가져옴
