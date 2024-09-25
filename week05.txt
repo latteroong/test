@@ -5,3 +5,6 @@
 - git config --list
 - git clone https://github.com/latteroong/test		// 원격에 있는거 다 가져옴
 - git clone 원격리포지토리주소 .	// 원격에 있는거 다 가져옴, .을 붙이면 새 폴더를 생성하지 않고 현재폴더에 가져옴
+
+깃 리눅스 명령어
+- cd ..
