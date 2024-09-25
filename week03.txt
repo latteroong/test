@@ -1,0 +1,19 @@
+3주차 수업내용
+- git init
+- git status
+- git add "file name or ."
+- git commit -m "메세지"
+- Please tell me who you are 메세지 보면
+git config --global user.name "아이디"
+git config --global user.email "이메일@이메일"
+- git log
+- git checkout 해시코드7자리
+- git checkout -
+- git branch -M main
+
+리눅스 기초 명령어
+- touch 파일명
+- ls
+- ls -a
+- pwd
+- cat 파일명
