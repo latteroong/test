@@ -1,5 +1,5 @@
 5주차 수업내용
 깃 기초 명령어
 - git remote add origin https://github.com/latteroong/test.git
-- git push -u origin main
+- git push -u origin main	// 한 번 연결 후 -u부터 생략가능
 - git config --list
