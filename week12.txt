@@ -1,3 +1,6 @@
 12주차 수업 내용
 - branch
-- git log 옵션(--oneline)
+- git log 옵션(--oneline, --graph, --all)
+- git branch 브랜치명            // 브랜치 생성
+- git checkout 브랜치명          // 브랜치 변경(헤드 변경) == git switch 브랜치명
+- git push -u origin 브랜치명    // 처음 sub브랜치에 푸쉬 할 때 -u옵션 넣어야 함
