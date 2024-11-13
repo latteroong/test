@@ -1,0 +1,3 @@
+12주차 수업 내용
+- branch
+- git log 옵션(--oneline)
