@@ -6,7 +6,7 @@ for i in range(2, number):
         counts = counts + 1
     print(i, end=' ')
 
-if counts == 2:
+if counts == 0:
     print(f"\n{number} is prime number~")
 else:
     print(f"\n{number} is NOT prime number! (divisors : {counts})")
